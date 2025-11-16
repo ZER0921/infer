@@ -1,5 +1,3 @@
-https://bentoml.com/llm/
-
 https://terrytangyuan.github.io/2025/10/09/the-best-choice-for-ai-inference-vllm/
 
 https://blog.vllm.ai/2025/09/05/anatomy-of-vllm.html
