@@ -1,0 +1,19 @@
+
+* infer
+
+https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization
+
+https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
+
+https://hao-ai-lab.github.io/blogs/distserve/
+
+* vllm
+
+https://terrytangyuan.github.io/2025/10/09/the-best-choice-for-ai-inference-vllm/
+
+https://blog.vllm.ai/2025/09/05/anatomy-of-vllm.html
+
+* kernel
+
+https://www.aleksagordic.com/blog/matmul
+
